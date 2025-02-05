@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrLokeshKumar
-- 👀 I’m interested in developing android apps
-- 🌱 I’m currently learning android native
-- 💞️ I’m looking to collaborate on developing android apps
+- 👀 I’m interested in developing cross-platform apps
+- 💞️ I’m looking to collaborate on developing apps
 - 📫 How to reach me 
 
 <!---
